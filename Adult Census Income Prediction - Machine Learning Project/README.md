@@ -1,5 +1,5 @@
 # Adult Census Income Prediction - Machine Learning Project
-
+dataset linki:https://www.kaggle.com/datasets/uciml/adult-census-income
 ## Proje Amacı
 
 Bu projede, UCI Adult Census Income veri seti kullanılarak bireylerin yıllık gelirinin 50.000 USD'nin üzerinde olup olmadığını tahmin etmek amacıyla bir makine öğrenmesi modeli geliştirilmiştir. Amaç, gözetimli öğrenme yöntemleriyle sınıflandırma problemini çözmektir.
